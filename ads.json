@@ -1,1 +1,18 @@
-{}
+{
+    "myfirstagamaflow": {
+        "projectName": "myfirstagamaflow",
+        "description": "myfirstagamaflow",
+        "type": "community",
+        "author": "manojs1978",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/manojs1978/agamalab",
+        "githubUri": "https://github.com/manojs1978/agamalab",
+        "license": "apache-2.0",
+        "lastUpdated": "1706086235863",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
